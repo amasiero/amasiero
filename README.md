@@ -1,5 +1,7 @@
-### Hi there 👋
+## It's me! Andrey! 
 
+[![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=amasiero&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amasiero&layout=compact&theme=dracula&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **amasiero/amasiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
