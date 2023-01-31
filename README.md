@@ -36,11 +36,11 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amasiero&layout=compact&theme=dracula&langs_count=8" />
 </a>
 <hr />
-
+<!--
 ### Watch a snake-eating 🐍 my contribution graph on Github
 
 ![snake](https://raw.githubusercontent.com/amasiero/amasiero/output/github-contribution-grid-snake.svg)
-
+-->
 ### You can stalk me here
 
 <div> 
