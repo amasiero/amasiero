@@ -1,8 +1,8 @@
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hi, I'm Andrey Masiero  
-- :monocle_face: &nbsp;I’m interested in building **large scale, distributed web services**
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> Hi, I'm Andrey Masiero  
+- :monocle_face: &nbsp;I’m interested in building **large scale**, and **distributed web services**
 - ✨ &nbsp;I'm fascinated by **sofware and architecture design**
-- 🌱 I’m currently learning **Go**, **Apache Kafka** and **AWS Cloud**.
-- 💬 Ask me about **React, Java,** and **programming stuffs**.
+- 🌱 &nbsp;I’m currently learning **Go**, **Apache Kafka** and **AWS Cloud**.
+- 💬 &nbsp;Ask me about **React**, **Java**, and **programming stuffs**.
 <hr />
 
 ### The tools I use
@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="32" height="32"/>
 </p>
-
+<hr />
 <!--
 <a href="https://andreymasiero.com/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amasiero&show_icons=true&theme=dracula" />
@@ -54,7 +54,7 @@
 
 ![snake](https://raw.githubusercontent.com/amasiero/amasiero/output/github-contribution-grid-snake.svg)
 -->
-### Contact me
+### 📫 How to reach me
 
 <div> 
   <a href="https://www.youtube.com/andreymasiero" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
