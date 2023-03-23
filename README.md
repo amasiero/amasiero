@@ -5,7 +5,7 @@
 - 💬 &nbsp;Ask me about **React**, **Java**, and **programming stuffs**.
 <hr />
 
-### The tools I use
+### ⚙️ &nbsp;The tools I use
 #### Backend stuffs 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="32" height="32"/>
@@ -43,6 +43,16 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="32" height="32"/>
 </p>
 <hr />
+
+### 📬 &nbsp;How to reach me
+
+<div>
+  <br/>
+  <a href="https://www.youtube.com/andreymasiero" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreymasiero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreymasiero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+
 <!--
 <a href="https://andreymasiero.com/">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=amasiero&show_icons=true&theme=dracula" />
@@ -53,16 +63,7 @@
 ### Watch a snake-eating 🐍 my contribution graph on Github
 
 ![snake](https://raw.githubusercontent.com/amasiero/amasiero/output/github-contribution-grid-snake.svg)
--->
-### 📫 How to reach me
 
-<div> 
-  <a href="https://www.youtube.com/andreymasiero" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "mailto:andreymasiero@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/andreymasiero" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
-<!--
 **amasiero/amasiero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
