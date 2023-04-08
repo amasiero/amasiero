@@ -1,7 +1,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24"> Hi, I'm Andrey Masiero  
 - :monocle_face: &nbsp;I’m interested in building **large scale**, and **distributed web services**
 - ✨ &nbsp;I'm fascinated by **sofware and architecture design**
-- 🌱 &nbsp;I’m currently learning **Go**, **Apache Kafka** and **AWS Cloud**.
+- 🌱 &nbsp;I’m currently learning **Go**, **Apache Kafka**, **Terraform**, and **AWS Cloud**.
 - 💬 &nbsp;Ask me about **React**, **Java**, and **programming stuffs**.
 <hr />
 
