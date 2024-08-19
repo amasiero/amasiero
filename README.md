@@ -7,7 +7,7 @@ It's a pleasure to meet you.
 
 ### 💻 I'm currently working as...
 
-Senior Software Engineer @ MotorK Platform team
+Senior Software Engineer
 
 <hr />
 
